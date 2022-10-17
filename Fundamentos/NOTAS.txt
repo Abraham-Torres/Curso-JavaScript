@@ -1,0 +1,14 @@
+Javascript es un lenguaje ligero, que inicialmente solo se usa en los navegadores
+para darles dinamismo, posteriormnte con NodeJS, se logro sacar de los navegadores
+y llevarlo a entornos mas productivos como servidores.
+
+Aspetos de Javascript:
+Javascript tiene tres aspectos importantes:
+*Dinamico: Se dice que JS es dinamico porque es un lenguaje interpretado o ejecutado justo a tiempo.
+es decir, JS no necesita de un compilado previo para su ejecucion.
+JAVA y JAVASCRIPT NO SON IGUALES, son TOTALMENTE diferentes
+
+*Multiparadigma: Javascript permite hacer programacion imperactiva y declarativa
+
+*Debilmente tipado: JS en los espacios de memoria que se utilza para almacenar datos
+no se tiene que especificiar que tipo de clase de datos sera
