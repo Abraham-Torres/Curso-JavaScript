@@ -46,3 +46,8 @@ var x=2;
 var y=2;
 x**=y;
 console.log(x);
+
+var suma=2;
+var suma1=1;
+suma+=suma1;
+console.log(`el resultado es ${suma}`);
